@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?b02f1d7c93b027649ca0317e5cc49f41") format("truetype"),
+url("./flaticon.woff?b02f1d7c93b027649ca0317e5cc49f41") format("woff"),
+url("./flaticon.woff2?b02f1d7c93b027649ca0317e5cc49f41") format("woff2"),
+url("./flaticon.eot?b02f1d7c93b027649ca0317e5cc49f41#iefix") format("embedded-opentype"),
+url("./flaticon.svg?b02f1d7c93b027649ca0317e5cc49f41#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-bell:before {
+    content: "\f101";
+}
+.flaticon-chat:before {
+    content: "\f102";
+}
+.flaticon-cup-of-hot-coffee:before {
+    content: "\f103";
+}
+.flaticon-folder:before {
+    content: "\f104";
+}
+.flaticon-heart:before {
+    content: "\f105";
+}
+.flaticon-layers:before {
+    content: "\f106";
+}
+.flaticon-music-player-play-button:before {
+    content: "\f107";
+}
+.flaticon-pen-tip:before {
+    content: "\f108";
+}
+.flaticon-settings:before {
+    content: "\f109";
+}
+.flaticon-users:before {
+    content: "\f10a";
+}
